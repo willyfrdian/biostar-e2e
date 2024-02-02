@@ -1,0 +1,26 @@
+{
+  "name": "web-ui-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyfrdian/web-ui-qa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willyfrdian/web-ui-qa.git/issues"
+  },
+  "homepage": "https://github.com/willyfrdian/web-ui-qa.git#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0",
+    "cypress-browser-permissions": "^1.1.0",
+    "cypress-dotenv": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "typescript": "^4.8.4"
+  }
+}
